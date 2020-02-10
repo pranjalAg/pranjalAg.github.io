@@ -4481,5 +4481,7 @@ dl.accordion.time-line:before {
 .footer-text a {
   color: #8490ff;
 }
-
+img.img-fluid.cus_img_size {
+    max-width: 15%;
+}
 /*-------- end footer Area -------------*/
