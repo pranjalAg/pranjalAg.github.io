@@ -42,9 +42,9 @@
 			      </div>
 			      <nav id="nav-menu-container">
 			        <ul class="nav-menu">
-			          <li><a href="index.html">Home</a></li>
-			          <li><a href="resume_Pranjal_Agarwal.pdf">Resume</a></li>          
-			          <li><a href="contact.html">Contact</a></li>
+			          <li><a href="index.php">Home</a></li>
+			          <li><a href="resume_Pranjal_Agarwal.pdf" target="_blank">Resume</a></li>          
+			          <li><a href="contact.php">Contact</a></li>
 			        </ul>
 			      </nav><!-- #nav-menu-container -->		    		
 		    	</div>
