@@ -89,31 +89,31 @@
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class=""><img class="img-fluid cus_img_size" src="img/html5.svg.png" alt=""></span>
+								<span class=""><img class="img-fluid cus_img_size" src="img/css3.png" alt=""></span>
 								<a href="#"><h4>CSS 3</h4></a>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class=""><img class="img-fluid cus_img_size" src="img/html5.svg.png" alt=""></span>
+								<span class=""><img class="img-fluid cus_img_size" src="img/js.png" alt=""></span>
 								<a href="#"><h4>JavaScript</h4></a>
 							</div>	
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class=""><img class="img-fluid cus_img_size" src="img/html5.svg.png" alt=""></span>
+								<span class=""><img class="img-fluid cus_img_size" src="img/boot.png" alt=""></span>
 								<a href="#"><h4>Bootstrap</h4></a>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class=""><img class="img-fluid cus_img_size" src="img/html5.svg.png" alt=""></span>
+								<span class=""><img class="img-fluid cus_img_size" src="img/jquery.png" alt=""></span>
 								<a href="#"><h4>jQuery</h4></a>
 							</div>
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class=""><img class="img-fluid cus_img_size" src="img/html5.svg.png" alt=""></span>
+								<span class=""><img class="img-fluid cus_img_size" src="img/php.png" alt=""></span>
 								<a href="#"><h4>PHP</h4></a>
 							</div>				
 						</div>
@@ -131,7 +131,7 @@
 						</div>
 						<div class="col-lg-4 col-md-6">
 							<div class="single-services">
-								<span class=""><img class="img-fluid cus_img_size" src="img/html5.svg.png" alt=""></span>
+								<span class=""><img class="img-fluid cus_img_size" src="img/mysql.svg" alt=""></span>
 								<a href="#"><h4>SQL</h4></a>
 							</div>				
 						</div>
