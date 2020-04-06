@@ -185,8 +185,8 @@
 		                    </div>
 		                </div>
 		            </div>
-                    
-                    <div class="filters-content">
+                    <div style="text-align: center;"><h4>Under Contsruction</h4></div>
+                    <!-- <div class="filters-content">
                         <div class="row grid">
                             <div class="single-portfolio col-sm-4 all vector">
                             	<div class="relative">
@@ -287,7 +287,7 @@
                             </div>
                         </div>
                     </div>
-                    
+                     -->
                 </div>
             </section>
             <!-- End portfolio-area Area -->	
