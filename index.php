@@ -61,6 +61,23 @@
 							<p>
 								You will begin to realise why this exercise is called the Dickens Pattern with reference to the ghost showing Scrooge some different futures.
 							</p>
+							<span class="social-connect">
+								<div class="socialbtn-box">
+									<a class="social_icons" href="https://www.linkedin.com/in/pranjal-agarwal/" target="_blank"><i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i></a>
+								</div>
+								<div class="socialbtn-box">
+									<a class="social_icons" href="https://github.com/pranjalAg" target="_blank"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a>
+								</div>
+								<div class="socialbtn-box">
+									<a class="social_icons" href="mailto:pranjalag97@gmail.com"><i class="fa fa-envelope fa-3x" aria-hidden="true"></i></a>
+								</div>
+								<div class="socialbtn-box">
+									<a class="social_icons" href="https://angel.co/u/pranjal_agarwal" target="_blank"><i class="fa fa-angellist fa-3x" aria-hidden="true"></i></a>
+								</div>
+								<div class="socialbtn-box">
+									<a class="social_icons" href="https://www.facebook.com/pranjalAg97" target="_blank"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>
+								</div>
+							</span>
 						</div>
 						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
 							<img class="img-fluid" src="img/hero-img.png" alt="">

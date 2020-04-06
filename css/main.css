@@ -4485,3 +4485,16 @@ img.img-fluid.cus_img_size {
     max-width: 15%;
 }
 /*-------- end footer Area -------------*/
+
+/*Custom CSS*/
+.social-connect{
+  display: flex;
+  margin-top: 6%;
+}
+.socialbtn-box{
+  margin: 2%;
+  /*padding: 2%;*/
+}
+.social_icons{
+  color: grey;
+}
