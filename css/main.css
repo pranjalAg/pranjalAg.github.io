@@ -2194,7 +2194,7 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   right: 15px;
   z-index: 999;
-  top: 22px;
+  top: 10px;
   border: 0;
   background: none;
   font-size: 24px;
@@ -2470,7 +2470,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 767px) {
   .banner-left {
-    margin-top: 100px;
+    /*margin-top: 100px;*/
+    text-align: center;
   }
 }
 
@@ -2487,9 +2488,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 767px) {
   .banner-right {
+    margin-bottom: unset;
     width: 70%;
     margin-left: auto;
     margin-right: auto;
+    height: 35%;
     display: block;
   }
 }
@@ -4489,11 +4492,11 @@ img.img-fluid.cus_img_size {
 
 /*Custom CSS*/
 .social-connect{
-  display: flex;
+  display: inline-flex;
   margin-top: 6%;
 }
 .socialbtn-box{
-  margin: 2%;
+  margin-right: 12px;
   /*padding: 2%;*/
 }
 .social_icons{
