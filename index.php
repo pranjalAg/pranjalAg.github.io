@@ -55,13 +55,16 @@
 			<section class="banner-area">
 				<div class="container">
 					<div class="row fullscreen align-items-center justify-content-between">
+						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
+							<img class="img-fluid avatar" src="img/rsz_hero-img.png" alt="">
+						</div>
 						<div class="col-lg-6 col-md-6 banner-left">
 							<h6>This is me</h6>
 							<h1>Pranjal Agarwal</h1>
 							<p>
 								You will begin to realise why this exercise is called the Dickens Pattern with reference to the ghost showing Scrooge some different futures.
 							</p>
-							<span class="social-connect">
+							<div class="social-connect">
 								<div class="socialbtn-box">
 									<a class="social_icons" href="https://www.linkedin.com/in/pranjal-agarwal/" target="_blank"><i class="fa fa-linkedin-square fa-3x" aria-hidden="true"></i></a>
 								</div>
@@ -77,10 +80,7 @@
 								<div class="socialbtn-box">
 									<a class="social_icons" href="https://www.facebook.com/pranjalAg97" target="_blank"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a>
 								</div>
-							</span>
-						</div>
-						<div class="col-lg-6 col-md-6 banner-right d-flex align-self-end">
-							<img class="img-fluid" src="img/hero-img.png" alt="">
+							</div>
 						</div>
 					</div>
 				</div>					
