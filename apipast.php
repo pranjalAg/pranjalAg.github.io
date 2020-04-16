@@ -21,10 +21,7 @@
 		$firstdate = date_format($firstdate,"d M");
 		$daterange = $firstdate.' - '.$lastdate;
 		$finalList = '['.$finalarr[0].','.$finalarr[1].','.$finalarr[2].','.$finalarr[3].','.$finalarr[4].','.$finalarr[5].','.$finalarr[6].']';
-		$finalobj = array();
-		$finalobj['list'] = $finalList;
-		$finalobj['date'] = $daterange;
-		// $finalobj = '{list:'.$finalList.',dates:'.$daterange.'}';
+		$finalobj = '{"list":'.$finalList.',"dates":'.$daterange.'}';
 		print_r(json_encode($finalobj));
 	}
 
