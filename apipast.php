@@ -2,7 +2,6 @@
 /**
  * 
  */
-
 	finalresult();
 
 	function finalresult(){
@@ -12,13 +11,18 @@
 			$date =  trim($value, '"');
 			$final = getDatewiseresult($date);
 			$padded = sprintf('%0.2f', $final); // 520 -> 520.00
-
 			$finalarr[] = $padded;
-			// print_r($finalarr);
 		}
-
+		$firstdate = $arr[0];
+		$firstdate = str_replace('"', '', $firstdate);
+		$lastdate = date_create();
+		$lastdate = date_format($lastdate,"d M");
+		$firstdate = date_create($firstdate);
+		$firstdate = date_format($firstdate,"d M");
+		$daterange = $firstdate.' - '.$lastdate;
 		$finalList = '['.$finalarr[0].','.$finalarr[1].','.$finalarr[2].','.$finalarr[3].','.$finalarr[4].','.$finalarr[5].','.$finalarr[6].']';
-		print_r($finalList);
+		$finalobj = '{list:'.$finalList.',dates:'.$daterange.'}';
+		print_r($finalobj);
 	}
 
 	function getDatewiseresult($date){
@@ -44,7 +48,4 @@
 	    }
 	    return array_reverse($dateArray);
 	}
-
-
-
 ?>
