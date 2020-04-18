@@ -20,10 +20,6 @@
 		$firstdate = date_create($firstdate);
 		$firstdate = date_format($firstdate,"d M");
 		$daterange = $firstdate.' - '.$lastdate;
-		if ($finalarr[6] == 0) {
-			$finalarr[6] = $finalarr[5];
-		}
-		$finalarr[6] = sprintf('%0.2f', 0);
 		$finalList = '['.$finalarr[0].','.$finalarr[1].','.$finalarr[2].','.$finalarr[3].','.$finalarr[4].','.$finalarr[5].','.$finalarr[6].']';
 		$finalobj = '{"list":'.$finalList.',"dates":"'.$daterange.'"}';
 		print_r($finalobj);
